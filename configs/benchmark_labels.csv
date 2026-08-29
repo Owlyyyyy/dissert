@@ -1,0 +1,65 @@
+label,discogs_label_id,start_year,end_year,market_segment,notes
+Columbia,TODO,2005,2025,major_pop,benchmark_only_not_sdid_donor
+RCA,TODO,2005,2025,major_pop,benchmark_only_not_sdid_donor
+Atlantic,TODO,2005,2025,major_pop,benchmark_only_not_sdid_donor
+Capitol Records,TODO,2005,2025,major_pop,benchmark_only_not_sdid_donor
+Interscope Records,TODO,2005,2025,major_pop,benchmark_only_not_sdid_donor
+Republic Records,TODO,2005,2025,major_pop,benchmark_only_not_sdid_donor
+Warner Records,TODO,2005,2025,major_pop,benchmark_only_not_sdid_donor
+Epic,TODO,2005,2025,major_pop,benchmark_only_not_sdid_donor
+Island Records,TODO,2005,2025,major_pop,benchmark_only_not_sdid_donor
+Virgin,TODO,2005,2025,major_pop,benchmark_only_not_sdid_donor
+Def Jam Recordings,TODO,2005,2025,hip_hop_rnb,benchmark_only_not_sdid_donor
+Cash Money Records,TODO,2005,2025,hip_hop_rnb,benchmark_only_not_sdid_donor
+Roc-A-Fella Records,TODO,2005,2025,hip_hop_rnb,benchmark_only_not_sdid_donor
+Young Money Entertainment,TODO,2005,2025,hip_hop_rnb,benchmark_only_not_sdid_donor
+Top Dawg Entertainment,TODO,2005,2025,hip_hop_rnb,benchmark_only_not_sdid_donor
+Quality Control Music,TODO,2005,2025,hip_hop_rnb,benchmark_only_not_sdid_donor
+Motown,TODO,2005,2025,hip_hop_rnb,benchmark_only_not_sdid_donor
+Roc Nation,TODO,2008,2025,hip_hop_rnb,benchmark_only_not_sdid_donor
+MCA Nashville,TODO,2005,2025,country,benchmark_only_not_sdid_donor
+Mercury Nashville,TODO,2005,2025,country,benchmark_only_not_sdid_donor
+Arista Nashville,TODO,2005,2025,country,benchmark_only_not_sdid_donor
+Capitol Records Nashville,TODO,2005,2025,country,benchmark_only_not_sdid_donor
+Warner Bros. Nashville,TODO,2005,2025,country,benchmark_only_not_sdid_donor
+Broken Bow Records,TODO,2005,2025,country,benchmark_only_not_sdid_donor
+Thirty Tigers,TODO,2005,2025,country,benchmark_only_not_sdid_donor
+Warp Records,TODO,2005,2025,electronic_dance,benchmark_only_not_sdid_donor
+Ninja Tune,TODO,2005,2025,electronic_dance,benchmark_only_not_sdid_donor
+XL Recordings,TODO,2005,2025,electronic_dance,benchmark_only_not_sdid_donor
+Mad Decent,TODO,2005,2025,electronic_dance,benchmark_only_not_sdid_donor
+Ultra Records,TODO,2005,2025,electronic_dance,benchmark_only_not_sdid_donor
+Anjunabeats,TODO,2005,2025,electronic_dance,benchmark_only_not_sdid_donor
+Hospital Records,TODO,2005,2025,electronic_dance,benchmark_only_not_sdid_donor
+Nuclear Blast,TODO,2005,2025,metal_punk_hardcore,benchmark_only_not_sdid_donor
+Metal Blade Records,TODO,2005,2025,metal_punk_hardcore,benchmark_only_not_sdid_donor
+Victory Records,TODO,2005,2025,metal_punk_hardcore,benchmark_only_not_sdid_donor
+Rise Records,TODO,2005,2025,metal_punk_hardcore,benchmark_only_not_sdid_donor
+Hopeless Records,TODO,2005,2025,metal_punk_hardcore,benchmark_only_not_sdid_donor
+Pure Noise Records,TODO,2009,2025,metal_punk_hardcore,benchmark_only_not_sdid_donor
+Blue Note,TODO,2005,2025,jazz_classical_experimental,benchmark_only_not_sdid_donor
+ECM Records,TODO,2005,2025,jazz_classical_experimental,benchmark_only_not_sdid_donor
+Deutsche Grammophon,TODO,2005,2025,jazz_classical_experimental,benchmark_only_not_sdid_donor
+Nonesuch,TODO,2005,2025,jazz_classical_experimental,benchmark_only_not_sdid_donor
+Impulse!,TODO,2005,2025,jazz_classical_experimental,benchmark_only_not_sdid_donor
+Verve Records,TODO,2005,2025,jazz_classical_experimental,benchmark_only_not_sdid_donor
+Fania Records,TODO,2005,2025,latin_global,benchmark_only_not_sdid_donor
+Nacional Records,TODO,2005,2025,latin_global,benchmark_only_not_sdid_donor
+Sony Music Latin,TODO,2005,2025,latin_global,benchmark_only_not_sdid_donor
+Universal Music Latino,TODO,2005,2025,latin_global,benchmark_only_not_sdid_donor
+World Circuit,TODO,2005,2025,latin_global,benchmark_only_not_sdid_donor
+Putumayo World Music,TODO,2005,2025,latin_global,benchmark_only_not_sdid_donor
+Sub Pop,TODO,2005,2025,indie_alternative,benchmark_only_not_sdid_donor
+Matador,TODO,2005,2025,indie_alternative,benchmark_only_not_sdid_donor
+Merge Records,TODO,2005,2025,indie_alternative,benchmark_only_not_sdid_donor
+4AD,TODO,2005,2025,indie_alternative,benchmark_only_not_sdid_donor
+Rough Trade,TODO,2005,2025,indie_alternative,benchmark_only_not_sdid_donor
+Secretly Canadian,TODO,2005,2025,indie_alternative,benchmark_only_not_sdid_donor
+Bella Union,TODO,2005,2025,indie_alternative,benchmark_only_not_sdid_donor
+ANTI-,TODO,2005,2025,indie_alternative,benchmark_only_not_sdid_donor
+Glassnote,TODO,2007,2025,indie_alternative,benchmark_only_not_sdid_donor
+Fueled By Ramen,TODO,2005,2025,rock_pop_punk,benchmark_only_not_sdid_donor
+Lava,TODO,2005,2025,rock_pop_punk,benchmark_only_not_sdid_donor
+Sumerian Records,TODO,2006,2025,rock_pop_punk,benchmark_only_not_sdid_donor
+Equal Vision Records,TODO,2005,2025,rock_pop_punk,benchmark_only_not_sdid_donor
+Cooking Vinyl,TODO,2005,2025,rock_pop_punk,benchmark_only_not_sdid_donor

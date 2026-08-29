@@ -1,0 +1,35 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Secrets / credentials
+*.env
+token*.txt
+tokens/
+
+# Local/generated data
+data/cache/
+data/audio/
+data/embeddings/
+data/embeddings_full30/
+data/backups/
+data/*.log
+data/*.err.log
+data/*.combined.log
+*.tmp
+
+# Large/generated media and spreadsheets
+outputs/**/previews_clean/
+outputs/**/*.m4a
+outputs/**/*.wav
+outputs/**/*.mp3
+outputs/**/*.xlsx
+outputs/**/*.inspect.ndjson
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

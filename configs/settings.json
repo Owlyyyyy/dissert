@@ -1,0 +1,11 @@
+{
+  "seed": 20260627,
+  "sample_size": 12,
+  "itunes_country": "US",
+  "itunes_match_threshold": 0.82,
+  "clap_model": "laion/clap-htsat-unfused",
+  "clap_revision": "8fa0f1c",
+  "clap_sample_rate": 48000,
+  "discogs_user_agent": "SoundDiversityResearch/0.1"
+}
+
